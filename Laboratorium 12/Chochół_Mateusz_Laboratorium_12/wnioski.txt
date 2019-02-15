@@ -1,0 +1,9 @@
+Sortowanie przez kopcowanie wydaje siê byæ najbardziej niezale¿ne od sposobu w jaki uporz¹dkowane s¹ dane.
+
+Cocktailsort nadaje siê g³ównie do sortowania niewielkich zbiorów, gdy¿ dla wiêkszych liczba potrzebnych porównañ i zamiañ roœnie strasznie szybko
+
+Lomuto jak to quicksort jest jednym z najszybszych algorytmów pod warunkiem, ¿e bêdziemy unikaæ trzech najgorszych przypadków (posortowane rosn¹co, posortowane malej¹co i wszystkie elementy jednakowe)
+
+Hoare to ulepszony Lomuto. Dla standardowych przypadków dzia³a oko³o trzy razy szybciej oraz jest niewra¿liwy na trzy wy¿ej podane przypadki szczególne.
+
+Zbiór liczb do posortowania zmniejszy³em z 1 000 000 do 10 000, gdy¿ dla miliona cocktail sort nieposortowa³by mi tego do poniedzia³ku, a Lomuto potrzebuje do tego milion GB pamiêci, ¿eby siê stos nie przepe³ni³ (dla przypadków szczególnych oczywiœcie). Dla 10 000 robi³y to kilka sekund, a dla 100 000 oko³o 2-3 minuty.

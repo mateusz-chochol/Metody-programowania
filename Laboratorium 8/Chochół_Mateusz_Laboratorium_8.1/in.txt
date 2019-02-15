@@ -1,0 +1,7 @@
+10
+Spodnie(150, 8)
+Czapka(35, 4)
+Buty sportowe(100, 9)
+Bluza(250, 6)
+Szalik(10, 3)
+Koszula(75, 7)

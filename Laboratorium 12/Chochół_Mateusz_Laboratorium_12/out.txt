@@ -1,0 +1,52 @@
+Lomutosort, 100, Random, Swaps: 434, Comparisons: 858
+Lomutosort, 1000, Random, Swaps: 7126, Comparisons: 12314
+Lomutosort, 10000, Random, Swaps: 83036, Comparisons: 161372
+Lomutosort, 100, Ordered, Swaps: 5049, Comparisons: 5149
+Lomutosort, 1000, Ordered, Swaps: 500499, Comparisons: 501499
+Lomutosort, 10000, Ordered, Swaps: 50004999, Comparisons: 50014999
+Lomutosort, 100, Reverse ordered, Swaps: 2549, Comparisons: 5149
+Lomutosort, 1000, Reverse ordered, Swaps: 250499, Comparisons: 501499
+Lomutosort, 10000, Reverse ordered, Swaps: 25004999, Comparisons: 50014999
+Lomutosort, 100, Mostly ordered, Swaps: 4118, Comparisons: 4230
+Lomutosort, 1000, Mostly ordered, Swaps: 405922, Comparisons: 407260
+Lomutosort, 10000, Mostly ordered, Swaps: 40512012, Comparisons: 40527850
+
+Heapsort, 100, Random, Swaps: 581, Comparisons: 2922
+Heapsort, 1000, Random, Swaps: 9078, Comparisons: 45617
+Heapsort, 10000, Random, Swaps: 124177, Comparisons: 622878
+Heapsort, 100, Ordered, Swaps: 638, Comparisons: 3130
+Heapsort, 1000, Ordered, Swaps: 9696, Comparisons: 48151
+Heapsort, 10000, Ordered, Swaps: 131932, Comparisons: 655230
+Heapsort, 100, Reverse ordered, Swaps: 517, Comparisons: 2641
+Heapsort, 1000, Reverse ordered, Swaps: 8317, Comparisons: 42412
+Heapsort, 10000, Reverse ordered, Swaps: 116697, Comparisons: 591769
+Heapsort, 100, Mostly ordered, Swaps: 567, Comparisons: 2823
+Heapsort, 1000, Mostly ordered, Swaps: 8913, Comparisons: 44533
+Heapsort, 10000, Mostly ordered, Swaps: 123031, Comparisons: 615002
+
+Coctailsort, 100, Random, Swaps: 2517, Comparisons: 3915
+Coctailsort, 1000, Random, Swaps: 253547, Comparisons: 380184
+Coctailsort, 10000, Random, Swaps: 25184041, Comparisons: 38026722
+Coctailsort, 100, Ordered, Swaps: 0, Comparisons: 99
+Coctailsort, 1000, Ordered, Swaps: 0, Comparisons: 999
+Coctailsort, 10000, Ordered, Swaps: 0, Comparisons: 9999
+Coctailsort, 100, Reverse ordered, Swaps: 4950, Comparisons: 4950
+Coctailsort, 1000, Reverse ordered, Swaps: 499500, Comparisons: 499500
+Coctailsort, 10000, Reverse ordered, Swaps: 49995000, Comparisons: 49995000
+Coctailsort, 100, Mostly ordered, Swaps: 494, Comparisons: 1629
+Coctailsort, 1000, Mostly ordered, Swaps: 45449, Comparisons: 163710
+Coctailsort, 10000, Mostly ordered, Swaps: 4504499, Comparisons: 16379100
+
+Hoaresort, 100, Random, Swaps: 171, Comparisons: 469
+Hoaresort, 1000, Random, Swaps: 2481, Comparisons: 5479
+Hoaresort, 10000, Random, Swaps: 32627, Comparisons: 62625
+Hoaresort, 100, Ordered, Swaps: 0, Comparisons: 298
+Hoaresort, 1000, Ordered, Swaps: 0, Comparisons: 2998
+Hoaresort, 10000, Ordered, Swaps: 0, Comparisons: 29998
+Hoaresort, 100, Reverse ordered, Swaps: 50, Comparisons: 348
+Hoaresort, 1000, Reverse ordered, Swaps: 500, Comparisons: 3498
+Hoaresort, 10000, Reverse ordered, Swaps: 5000, Comparisons: 34998
+Hoaresort, 100, Mostly ordered, Swaps: 147, Comparisons: 445
+Hoaresort, 1000, Mostly ordered, Swaps: 1862, Comparisons: 4860
+Hoaresort, 10000, Mostly ordered, Swaps: 24924, Comparisons: 54922
+
